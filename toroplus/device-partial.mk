@@ -14,4 +14,5 @@
 
 # Broadcom blob(s) necessary for ToroPlus hardware
 PRODUCT_PACKAGES := \
-    bcm4330
+    bcm4330 \
+    libbt-vendor
